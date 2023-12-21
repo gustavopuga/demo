@@ -1,4 +1,4 @@
-package br.sp.mackenzie.demo;
+package br.belasartes.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

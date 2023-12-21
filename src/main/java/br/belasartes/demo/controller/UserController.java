@@ -1,4 +1,4 @@
-package br.sp.mackenzie.demo.controller;
+package br.belasartes.demo.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import br.sp.mackenzie.demo.model.User;
-import br.sp.mackenzie.demo.service.UserService;
+import br.belasartes.demo.model.User;
+import br.belasartes.demo.service.UserService;
 
 @RestController
 @RequestMapping("/api/v1/user")

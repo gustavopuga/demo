@@ -1,12 +1,12 @@
-package br.sp.mackenzie.demo.service;
+package br.belasartes.demo.service;
 
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.sp.mackenzie.demo.model.User;
-import br.sp.mackenzie.demo.repository.UserRepository;
+import br.belasartes.demo.model.User;
+import br.belasartes.demo.repository.UserRepository;
 
 @Service
 public class UserService {

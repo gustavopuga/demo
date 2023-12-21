@@ -1,4 +1,4 @@
-package br.sp.mackenzie.demo.model;
+package br.belasartes.demo.model;
 
 import java.io.Serializable;
 

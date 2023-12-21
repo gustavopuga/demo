@@ -1,9 +1,9 @@
-package br.sp.mackenzie.demo.repository;
+package br.belasartes.demo.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import br.sp.mackenzie.demo.model.User;
+import br.belasartes.demo.model.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Long>{
